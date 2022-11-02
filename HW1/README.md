@@ -19,5 +19,5 @@
 # Задача 4: 
 ## Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
 
-[Блок-схема]()
-[Код]()
+[Блок-схема](https://github.com/nondusty1/Homework/blob/master/HW1/Task4/task4.drawio.png)
+[Код](https://github.com/nondusty1/Homework/blob/master/HW1/Task4/Program.cs)
