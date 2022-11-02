@@ -13,5 +13,5 @@
 # Задача 3: 
 ## Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
 
-[Блок-схема]()
-[Код]()
+[Блок-схема](https://github.com/nondusty1/Homework/blob/master/HW2/Task3/task3.drawio.png)
+[Код](https://github.com/nondusty1/Homework/blob/master/HW2/Task3/Program.cs)
