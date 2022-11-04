@@ -6,7 +6,6 @@ if (num >= 100)
 {
     while (num > 999)
     {
-      //num = num / 10;
         num /= 10;
     }
     result = num % 10;
