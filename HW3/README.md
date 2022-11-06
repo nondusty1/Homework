@@ -10,6 +10,6 @@
 
 ## Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.
 
-[Блок-схема]( )
-[Код]( )
+[Блок-схема](https://github.com/nondusty1/Homework/blob/master/HW3/Task2/task2.drawio.png)
+[Код](https://github.com/nondusty1/Homework/blob/master/HW3/Task2/Program.cs)
 
