@@ -2,8 +2,8 @@
 
 ## Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом.
 
-[Блок-схема]( )
-[Код]( )
+[Блок-схема](https://github.com/nondusty1/Homework/blob/master/HW3/Task1/task1.drawio.png)
+[Код](https://github.com/nondusty1/Homework/blob/master/HW3/Task1/Program.cs)
 
 
 # Задача 2
