@@ -13,3 +13,7 @@
 [Блок-схема](https://github.com/nondusty1/Homework/blob/master/HW3/Task2/task2.drawio.png)
 [Код](https://github.com/nondusty1/Homework/blob/master/HW3/Task2/Program.cs)
 
+# Задача 3
+## Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве.
+
+[Код](https://github.com/nondusty1/Homework/blob/master/HW3/Task3/Program.cs)
