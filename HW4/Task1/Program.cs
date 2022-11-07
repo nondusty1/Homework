@@ -12,4 +12,4 @@ int Exponentiation(int b, int n)
     }
     return result;
 }
-Console.WriteLine(Exponentiation(b, n));
+Console.WriteLine($"Ответ: {Exponentiation(b, n)}");
