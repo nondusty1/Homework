@@ -2,8 +2,8 @@
 
 ## Напишите метод, который принимает на вход два числа (A и B) и возводит число A в целую степень B.
 
-[Блок-схема]( )
-[Код]( )
+[Блок-схема](https://github.com/nondusty1/Homework/blob/master/HW4/Task1/task1.drawio.png)
+[Код](https://github.com/nondusty1/Homework/blob/master/HW4/Task1/Program.cs)
 
 
 # Задача 2
