@@ -1,4 +1,4 @@
-﻿Console.Write("Введите количество элементов: ");
+﻿Console.Write("Введите количество элементов в массиве: ");
 int count = Convert.ToInt32(Console.ReadLine());
 int[] array = new int[count];
 Console.WriteLine($"Массив из {count} элементов следующий: ");
