@@ -17,4 +17,4 @@
 
 ## Напишите программу, которая задаёт массив из N элементов и выводит их на экран.
 
-[Код]( )
+[Код](https://github.com/nondusty1/Homework/blob/master/HW4/Task3/Program.cs)
