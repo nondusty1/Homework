@@ -3,7 +3,7 @@ void FillArray(int[] array)
 {
     for (int i = 0; i < array.Length; i++)
     {
-        array[i] = new Random().Next(-100, 100);
+        array[i] = new Random().Next(1, 100);
     }
 }
 void PrintArray(int[] array)
@@ -19,7 +19,7 @@ int SumOddPositions(int[] array)
     int sum = 0;
     for (int i = 0; i < array.Length; i++)
     {
-        if (array[i] % 2 == 1)
+        if (i % 2 == 1)
         {
             sum += array[i];
         }
