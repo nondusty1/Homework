@@ -24,8 +24,6 @@ void PrintArray(int[,] array)
         Console.WriteLine();
     }
 }
-FillArray(array);
-PrintArray(array);
 void AverageArray(int[,] array)
 {
     for (int j = 0; j < n; j++)
@@ -36,7 +34,10 @@ void AverageArray(int[,] array)
             sum += array[i, j];
         }
         sum = Math.Round((sum / m), 1);
-        Console.Write($"{sum}"+";"+"\t");
+        Console.Write($"{sum}" + " " + "\t");
     }
 }
+FillArray(array);
+PrintArray(array);
+Console.WriteLine();
 AverageArray(array);

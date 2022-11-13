@@ -9,7 +9,7 @@ double[,] FillArray(double[,] array)
     {
         for (int j = 0; j < n; j++)
         {
-            array[i, j] = new Random().NextDouble() * 10 - 1;
+            array[i, j] = new Random().NextDouble() * 10.0 - 1;
         }
     }
     return array;
