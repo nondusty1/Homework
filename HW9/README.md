@@ -3,7 +3,7 @@
 
 [Код](https://github.com/nondusty1/Homework/blob/master/HW9/Task1/Program.cs)
 
-# Задача 3
+# Задача 2
 ## Задайте значения M и N. Напишите программу, которая найдёт сумму натуральных элементов в промежутке от M до N.
 
 [Код](https://github.com/nondusty1/Homework/blob/master/HW9/Task2/Program.cs)
